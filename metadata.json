@@ -1,0 +1,6 @@
+{
+  "name": "الطوفان - تواصل Al-Tofan Chat",
+  "description": "تطبيق مراسلة أندرويد نيتف قوي ومميز، مع شات مشفر، لعبة صامد 2D أوفلاين، ونظام رصيد الصمود ومكتبة الصمود والاتصال العسكري المضغوط 2G.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
